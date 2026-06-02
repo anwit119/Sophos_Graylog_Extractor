@@ -9,3 +9,7 @@ The code inspiration for this extractor was taken from [zildjian4life218/Sophos-
 The extractor has been tested and confirmed to work with logs available in the following environment:
 - Graylog Version: 6.x
 - Sophos SFOS 22.x on Sophos XGS 2300
+
+### Change befor import:
+You have to Update the Device Name to your enviroment:
+      "condition_value": "device_name=\"insert.device.name.here\""
