@@ -12,7 +12,7 @@
         "regex_value": "dst_ip=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Log Type",
@@ -26,7 +26,7 @@
         "regex_value": "log_type=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Log Component",
@@ -40,7 +40,7 @@
         "regex_value": "log_component=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Log Subtype",
@@ -54,7 +54,7 @@
         "regex_value": "log_subtype=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Severity",
@@ -68,7 +68,7 @@
         "regex_value": "severity=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Rule ID",
@@ -82,7 +82,7 @@
         "regex_value": "fw_rule_id=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall User Name",
@@ -96,7 +96,7 @@
         "regex_value": "user_name=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Web Policy",
@@ -110,7 +110,7 @@
         "regex_value": "web_policy=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall ID",
@@ -124,7 +124,7 @@
         "regex_value": "_id=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Malware",
@@ -138,7 +138,7 @@
         "regex_value": "malware=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall URL",
@@ -152,7 +152,7 @@
         "regex_value": "url=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Domain",
@@ -166,7 +166,7 @@
         "regex_value": "domain=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Source IP",
@@ -180,7 +180,7 @@
         "regex_value": "src_ip=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Source Country",
@@ -194,7 +194,7 @@
         "regex_value": "src_country=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Destination IP",
@@ -208,7 +208,7 @@
         "regex_value": "dst_ip=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Destination Country",
@@ -222,7 +222,7 @@
         "regex_value": "dst_country=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Source Port",
@@ -236,7 +236,7 @@
         "regex_value": "src_port=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Destination Port",
@@ -250,7 +250,7 @@
         "regex_value": "dst_port=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Bytes Sent",
@@ -264,7 +264,7 @@
         "regex_value": "bytes_sent=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Bytes Received",
@@ -278,7 +278,7 @@
         "regex_value": "bytes_received=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall HTTP User Agent",
@@ -292,7 +292,7 @@
         "regex_value": "http_user_agent=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "HTTP Status",
@@ -306,7 +306,7 @@
         "regex_value": "http_status=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Log ID",
@@ -320,7 +320,7 @@
         "regex_value": "log_id=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Device Name",
@@ -334,7 +334,7 @@
         "regex_value": "device_name=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Device Model",
@@ -348,7 +348,7 @@
         "regex_value": "device_model=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Device Serial ID",
@@ -362,7 +362,7 @@
         "regex_value": "device_serial_id=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Protocol",
@@ -376,7 +376,7 @@
         "regex_value": "protocol=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Source Zone Type",
@@ -390,7 +390,7 @@
         "regex_value": "src_zone_type=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Source Zone",
@@ -404,7 +404,7 @@
         "regex_value": "src_zone=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Destination Zone Type",
@@ -418,7 +418,7 @@
         "regex_value": "dst_zone_type=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Destination Zone",
@@ -432,7 +432,7 @@
         "regex_value": "dst_zone=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "User Group",
@@ -446,7 +446,7 @@
         "regex_value": "user_group=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Priority",
@@ -460,7 +460,7 @@
         "regex_value": "priority=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "IAP",
@@ -474,7 +474,7 @@
         "regex_value": "iap=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Virus",
@@ -488,7 +488,7 @@
         "regex_value": "virus=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Domain Name",
@@ -502,7 +502,7 @@
         "regex_value": "domainname=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Code",
@@ -516,7 +516,7 @@
         "regex_value": "_code=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Sent Bytes",
@@ -530,7 +530,7 @@
         "regex_value": "sent_bytes=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Received Bytes",
@@ -544,7 +544,7 @@
         "regex_value": "recv_bytes=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "User Agent",
@@ -558,7 +558,7 @@
         "regex_value": "user_agent=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Status Code",
@@ -572,7 +572,7 @@
         "regex_value": "status_code=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Device",
@@ -586,7 +586,7 @@
         "regex_value": "device=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Device ID",
@@ -600,7 +600,7 @@
         "regex_value": "device_id=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Log Component",
@@ -614,7 +614,7 @@
         "regex_value": "log_component=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "FTP URL",
@@ -628,7 +628,7 @@
         "regex_value": "FTP_url=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "FTP Direction",
@@ -642,7 +642,7 @@
         "regex_value": "FTP_direction=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": ""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Filename",
@@ -656,7 +656,7 @@
         "regex_value": "filename=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": ""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "File Size",
@@ -670,7 +670,7 @@
         "regex_value": "file_size=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": ""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "File Path",
@@ -684,7 +684,7 @@
         "regex_value": "file_path=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": ""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "FTP Command",
@@ -698,7 +698,7 @@
         "regex_value": "ftpcommand=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": ""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Source Country Code",
@@ -712,7 +712,7 @@
         "regex_value": "src_country_code=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": ""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Destination Country Code",
@@ -726,7 +726,7 @@
         "regex_value": "dst_country_code=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": ""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Destination Domain",
@@ -740,7 +740,7 @@
         "regex_value": "dstdomain=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": ""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Device Name",
@@ -754,7 +754,7 @@
         "regex_value": "device_name=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": ""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Connection Direction",
@@ -768,7 +768,7 @@
         "regex_value": "con_direction=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": ""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "File Name",
@@ -782,7 +782,7 @@
         "regex_value": "file_name=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": ""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Device Model",
@@ -796,7 +796,7 @@
         "regex_value": "device_model=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": ""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Device Serial ID",
@@ -810,7 +810,7 @@
         "regex_value": "device_serial_id=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": ""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Log Version",
@@ -824,7 +824,7 @@
         "regex_value": "log_version=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": ""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Source Zone Type",
@@ -838,7 +838,7 @@
         "regex_value": "src_zone_type=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": ""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Destination Zone Type",
@@ -852,7 +852,7 @@
         "regex_value": "dst_zone_type=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": ""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Timestamp",
@@ -866,7 +866,7 @@
         "regex_value": "timestamp=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": ""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Log Component",
@@ -880,7 +880,7 @@
         "regex_value": "log_component=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": ""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "App Filter Policy ID",
@@ -894,7 +894,7 @@
         "regex_value": "app_filter_policy_id=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": ""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Category",
@@ -908,7 +908,7 @@
         "regex_value": "category=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": ""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "App Name",
@@ -922,7 +922,7 @@
         "regex_value": "app_name=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": ""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "App Risk",
@@ -936,7 +936,7 @@
         "regex_value": "app_risk=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": ""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "App Technology",
@@ -950,7 +950,7 @@
         "regex_value": "app_technology=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": ""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall App Category",
@@ -964,7 +964,7 @@
         "regex_value": "app_category=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Bytes Received",
@@ -978,7 +978,7 @@
         "regex_value": "bytes_received=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall App is Cloud",
@@ -992,7 +992,7 @@
         "regex_value": "app_is_cloud=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Parent App",
@@ -1006,7 +1006,7 @@
         "regex_value": "parent_app=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Parent App Category",
@@ -1020,7 +1020,7 @@
         "regex_value": "parent_app_category=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Parent App Risk",
@@ -1034,7 +1034,7 @@
         "regex_value": "parent_app_risk=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Classification",
@@ -1048,7 +1048,7 @@
         "regex_value": "classification=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall App Resolved By",
@@ -1062,7 +1062,7 @@
         "regex_value": "app_resolved_by=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Qualifier",
@@ -1076,7 +1076,7 @@
         "regex_value": "qualifier=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Status",
@@ -1090,7 +1090,7 @@
         "regex_value": "status=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall User GP",
@@ -1104,7 +1104,7 @@
         "regex_value": "user_gp=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Application Filter Policy",
@@ -1118,7 +1118,7 @@
         "regex_value": "application_filter_policy=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Application Name",
@@ -1132,7 +1132,7 @@
         "regex_value": "application_name=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Application Risk",
@@ -1146,7 +1146,7 @@
         "regex_value": "application_risk=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Application Technology",
@@ -1160,7 +1160,7 @@
         "regex_value": "application_technology=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Application Category",
@@ -1174,7 +1174,7 @@
         "regex_value": "application_category=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Source Country Code",
@@ -1188,7 +1188,7 @@
         "regex_value": "src_country_code=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Destination Country Code",
@@ -1202,7 +1202,7 @@
         "regex_value": "dst_country_code=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall App Resolved By",
@@ -1216,7 +1216,7 @@
         "regex_value": "app_resolved_by=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Source Zone Type",
@@ -1230,7 +1230,7 @@
         "regex_value": "src_zone_type=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Destination Zone Type",
@@ -1244,7 +1244,7 @@
         "regex_value": "dst_zone_type=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Event ID",
@@ -1258,7 +1258,7 @@
         "regex_value": "event_id=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Event Type",
@@ -1272,7 +1272,7 @@
         "regex_value": "event_type=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Reported User",
@@ -1286,7 +1286,7 @@
         "regex_value": "reported_user=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Process User",
@@ -1300,7 +1300,7 @@
         "regex_value": "proc_user=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Reported ID",
@@ -1314,7 +1314,7 @@
         "regex_value": "reported_id=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Threatfeed",
@@ -1328,7 +1328,7 @@
         "regex_value": "Threatfeed=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Source IP",
@@ -1342,7 +1342,7 @@
         "regex_value": "sourceip=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Destination IP",
@@ -1356,7 +1356,7 @@
         "regex_value": "destinationip=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Threat Name",
@@ -1370,7 +1370,7 @@
         "regex_value": "threatname=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Event ID",
@@ -1384,7 +1384,7 @@
         "regex_value": "eventid=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Event Type",
@@ -1398,7 +1398,7 @@
         "regex_value": "eventtype=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Login User",
@@ -1412,7 +1412,7 @@
         "regex_value": "login_user=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Process User",
@@ -1426,7 +1426,7 @@
         "regex_value": "process_user=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Endpoint UUID",
@@ -1440,7 +1440,7 @@
         "regex_value": "ep_uuid=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Execution Path",
@@ -1454,7 +1454,7 @@
         "regex_value": "execution_path=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Client Used",
@@ -1468,7 +1468,7 @@
         "regex_value": "client_used=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Authentication Mechanism",
@@ -1482,7 +1482,7 @@
         "regex_value": "auth_mechanism=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Reason",
@@ -1496,7 +1496,7 @@
         "regex_value": "reason=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Source MAC",
@@ -1510,7 +1510,7 @@
         "regex_value": "src_mac=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Start",
@@ -1524,7 +1524,7 @@
         "regex_value": "start=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall End",
@@ -1538,7 +1538,7 @@
         "regex_value": "end=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall User Full Name",
@@ -1552,7 +1552,7 @@
         "regex_value": "user_full_name=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall User Group Name",
@@ -1566,7 +1566,7 @@
         "regex_value": "usergroupname=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Authentication Client",
@@ -1580,7 +1580,7 @@
         "regex_value": "auth_client=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Start Time",
@@ -1594,7 +1594,7 @@
         "regex_value": "start_time=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Name",
@@ -1608,7 +1608,7 @@
         "regex_value": "name=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Log Component",
@@ -1622,7 +1622,7 @@
         "regex_value": "log_component=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "User Group Name",
@@ -1636,7 +1636,7 @@
         "regex_value": "usergroupname=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Authentication Mechanism",
@@ -1650,7 +1650,7 @@
         "regex_value": "auth_mechanism=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Source Host",
@@ -1664,7 +1664,7 @@
         "regex_value": "src_host=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Reported IP",
@@ -1678,7 +1678,7 @@
         "regex_value": "reported_ip=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Log Subtype",
@@ -1692,7 +1692,7 @@
         "regex_value": "log_subtype=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Host",
@@ -1706,7 +1706,7 @@
         "regex_value": "host=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Updated IP",
@@ -1720,7 +1720,7 @@
         "regex_value": "updatedip=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Reported Host",
@@ -1734,7 +1734,7 @@
         "regex_value": "reported_host=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Lease Time",
@@ -1748,7 +1748,7 @@
         "regex_value": "lease_time=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "IP Address",
@@ -1762,7 +1762,7 @@
         "regex_value": "ipaddress=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Client Physical Address",
@@ -1776,7 +1776,7 @@
         "regex_value": "client_physical_address=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Client Host Name",
@@ -1790,7 +1790,7 @@
         "regex_value": "client_host_name=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Raw Data",
@@ -1804,7 +1804,7 @@
         "regex_value": "raw_data=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Policy Name",
@@ -1818,7 +1818,7 @@
         "regex_value": "policy_name=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Sender",
@@ -1832,7 +1832,7 @@
         "regex_value": "sender=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Recipient",
@@ -1846,7 +1846,7 @@
         "regex_value": "recipient=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Subject",
@@ -1860,7 +1860,7 @@
         "regex_value": "subject=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Message ID",
@@ -1874,7 +1874,7 @@
         "regex_value": "message_id=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Email Size",
@@ -1888,7 +1888,7 @@
         "regex_value": "email_size=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Action",
@@ -1902,7 +1902,7 @@
         "regex_value": "action=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Destination Host",
@@ -1916,7 +1916,7 @@
         "regex_value": "dst_host=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall AV Policy Name",
@@ -1930,7 +1930,7 @@
         "regex_value": "av_policy_name=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall From Email Address",
@@ -1944,7 +1944,7 @@
         "regex_value": "from_email_address=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall To Email Address",
@@ -1958,7 +1958,7 @@
         "regex_value": "to_email_address=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Email Subject",
@@ -1972,7 +1972,7 @@
         "regex_value": "email_subject=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Mail ID",
@@ -1986,7 +1986,7 @@
         "regex_value": "mailid=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Mail Size",
@@ -2000,7 +2000,7 @@
         "regex_value": "mailsize=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Spam Action",
@@ -2014,7 +2014,7 @@
         "regex_value": "spamaction=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Source Domain Name",
@@ -2028,7 +2028,7 @@
         "regex_value": "src_domainname=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Destination Domain Name",
@@ -2042,7 +2042,7 @@
         "regex_value": "dst_domainname=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Source Country Code",
@@ -2056,7 +2056,7 @@
         "regex_value": "src_country_code=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Destination Country Code",
@@ -2070,7 +2070,7 @@
         "regex_value": "dst_country_code=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Quarantine Reason",
@@ -2084,7 +2084,7 @@
         "regex_value": "quarantine_reason=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall From Email Address 2",
@@ -2098,7 +2098,7 @@
         "regex_value": "from_email_address=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall To Email Address 2",
@@ -2112,7 +2112,7 @@
         "regex_value": "to_email_address=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Quarantine 2",
@@ -2126,7 +2126,7 @@
         "regex_value": "quarantine=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Source Domain Name 2",
@@ -2140,7 +2140,7 @@
         "regex_value": "src_domainname=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Destination Domain Name 2",
@@ -2154,7 +2154,7 @@
         "regex_value": "dst_domainname=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Quarantine Reason 2",
@@ -2168,7 +2168,7 @@
         "regex_value": "quarantine_reason=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall From 2",
@@ -2182,7 +2182,7 @@
         "regex_value": "from=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall To 2",
@@ -2196,7 +2196,7 @@
         "regex_value": "to=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Duration",
@@ -2210,7 +2210,7 @@
         "regex_value": "duration=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Policy Type",
@@ -2224,7 +2224,7 @@
         "regex_value": "policy_type=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall IPS Policy ID",
@@ -2238,7 +2238,7 @@
         "regex_value": "ips_policy_id=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall AppFilter Policy ID",
@@ -2252,7 +2252,7 @@
         "regex_value": "application=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Application",
@@ -2266,7 +2266,7 @@
         "regex_value": "application=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Application Technology",
@@ -2280,7 +2280,7 @@
         "regex_value": "application_technology=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Application Category",
@@ -2294,7 +2294,7 @@
         "regex_value": "application_category=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall In Interface",
@@ -2308,7 +2308,7 @@
         "regex_value": "in_interface=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Out Interface",
@@ -2322,7 +2322,7 @@
         "regex_value": "out_interface=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Destination MAC",
@@ -2336,7 +2336,7 @@
         "regex_value": "dst_mac=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall VLAN ID",
@@ -2350,7 +2350,7 @@
         "regex_value": "vlan_id=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall ICMP Type",
@@ -2364,7 +2364,7 @@
         "regex_value": "icmp_type=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall ICMP Code",
@@ -2378,7 +2378,7 @@
         "regex_value": "icmp_code=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Sent Packets",
@@ -2392,7 +2392,7 @@
         "regex_value": "sent_pkts=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Received Packets",
@@ -2406,7 +2406,7 @@
         "regex_value": "recv_pkts=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Translated Source IP",
@@ -2420,7 +2420,7 @@
         "regex_value": "tran_src_ip=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Translated Source Port",
@@ -2434,7 +2434,7 @@
         "regex_value": "tran_src_port=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Translated Destination IP",
@@ -2448,7 +2448,7 @@
         "regex_value": "tran_dst_ip=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Translated Destination Port",
@@ -2462,7 +2462,7 @@
         "regex_value": "tran_dst_port=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Source Zone Type",
@@ -2476,7 +2476,7 @@
         "regex_value": "srczonetype=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Source Zone",
@@ -2490,7 +2490,7 @@
         "regex_value": "srczone=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Destination Zone Type",
@@ -2504,7 +2504,7 @@
         "regex_value": "dstzonetype=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Destination Zone",
@@ -2518,7 +2518,7 @@
         "regex_value": "dstzone=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Direction Display",
@@ -2532,7 +2532,7 @@
         "regex_value": "dir_disp=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Connection Event",
@@ -2546,7 +2546,7 @@
         "regex_value": "connevent=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Connection ID",
@@ -2560,7 +2560,7 @@
         "regex_value": "connid=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Virtual Connection ID",
@@ -2574,7 +2574,7 @@
         "regex_value": "vconnid=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Heartbeat Health",
@@ -2588,7 +2588,7 @@
         "regex_value": "hb_health=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Ethernet Type",
@@ -2602,7 +2602,7 @@
         "regex_value": "ether_type=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall SD-WAN Profile ID Request",
@@ -2616,7 +2616,7 @@
         "regex_value": "sdwan_profile_id_request=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "SD-WAN Profile Name Request",
@@ -2630,7 +2630,7 @@
         "regex_value": "sdwan_profile_name_request"
       },
       "condition_type": "string",
-      "condition_value": ""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "SD-WAN Profile ID Reply",
@@ -2644,7 +2644,7 @@
         "regex_value": "sdwan_profile_id_reply"
       },
       "condition_type": "string",
-      "condition_value": ""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "SD-WAN Profile Name Reply",
@@ -2672,7 +2672,7 @@
         "regex_value": "gw_id_request"
       },
       "condition_type": "string",
-      "condition_value": ""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Gateway Name Request",
@@ -2686,7 +2686,7 @@
         "regex_value": "gw_name_request"
       },
       "condition_type": "string",
-      "condition_value": ""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Gateway ID Reply",
@@ -2700,7 +2700,7 @@
         "regex_value": "gw_id_reply"
       },
       "condition_type": "string",
-      "condition_value": ""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Gateway Name Reply",
@@ -2714,7 +2714,7 @@
         "regex_value": "gw_name_reply"
       },
       "condition_type": "string",
-      "condition_value": ""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "SD-WAN Route ID Request",
@@ -2728,7 +2728,7 @@
         "regex_value": "sdwan_route_id_request"
       },
       "condition_type": "string",
-      "condition_value": ""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "SD-WAN Route Name Request",
@@ -2742,7 +2742,7 @@
         "regex_value": "sdwan_route_name_request"
       },
       "condition_type": "string",
-      "condition_value": ""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "SD-WAN Route ID Reply",
@@ -2756,7 +2756,7 @@
         "regex_value": "sdwan_route_id_reply"
       },
       "condition_type": "string",
-      "condition_value": ""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "SD-WAN Route Name Reply",
@@ -2770,7 +2770,7 @@
         "regex_value": "sdwan_route_name_reply"
       },
       "condition_type": "string",
-      "condition_value": ""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Gateway Name",
@@ -2980,7 +2980,7 @@
         "regex_value": "dst_country_code=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Platform",
@@ -2994,7 +2994,7 @@
         "regex_value": "platform=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Target",
@@ -3008,7 +3008,7 @@
         "regex_value": "target=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Connection Name",
@@ -3022,7 +3022,7 @@
         "regex_value": "connectionname=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Connection Type",
@@ -3036,7 +3036,7 @@
         "regex_value": "connectiontype=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Local Interface IP",
@@ -3050,7 +3050,7 @@
         "regex_value": "localinterfaceip=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Local Gateway",
@@ -3064,7 +3064,7 @@
         "regex_value": "localgateway=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Local Network",
@@ -3078,7 +3078,7 @@
         "regex_value": "localnetwork=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Remote Interface IP",
@@ -3092,7 +3092,7 @@
         "regex_value": "remoteinterfaceip=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Remote Network",
@@ -3106,7 +3106,7 @@
         "regex_value": "remotenetwork=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Local IP",
@@ -3120,7 +3120,7 @@
         "regex_value": "localip=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Remote Peer",
@@ -3134,7 +3134,7 @@
         "regex_value": "remotepeer=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall IP Leased",
@@ -3148,7 +3148,7 @@
         "regex_value": "ipleased=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Bytes Received",
@@ -3162,7 +3162,7 @@
         "regex_value": "bytes_recv=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Red ID",
@@ -3176,7 +3176,7 @@
         "regex_value": "red_id=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Event Time",
@@ -3190,7 +3190,7 @@
         "regex_value": "eventtime=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Branch Name",
@@ -3204,7 +3204,7 @@
         "regex_value": "branch_name=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall File Type",
@@ -3218,7 +3218,7 @@
         "regex_value": "filetype=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall File Size",
@@ -3232,7 +3232,7 @@
         "regex_value": "filesize=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall File Hash",
@@ -3246,7 +3246,7 @@
         "regex_value": "file_hash=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Source",
@@ -3260,7 +3260,7 @@
         "regex_value": "source=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Destination",
@@ -3274,7 +3274,7 @@
         "regex_value": "destination=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Device Serial",
@@ -3288,7 +3288,7 @@
         "regex_value": "device_serial=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall SHA1 Sum",
@@ -3302,7 +3302,7 @@
         "regex_value": "sha1sum=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Profile ID",
@@ -3316,7 +3316,7 @@
         "regex_value": "profile_id=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Profile Name",
@@ -3330,7 +3330,7 @@
         "regex_value": "profile_name=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Gateway ID",
@@ -3344,7 +3344,7 @@
         "regex_value": "gw_id=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Gateway Name",
@@ -3358,7 +3358,7 @@
         "regex_value": "gw_name=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Probe Target",
@@ -3372,7 +3372,7 @@
         "regex_value": "probe_target=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Mode",
@@ -3386,7 +3386,7 @@
         "regex_value": "Mode=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Session ID",
@@ -3400,7 +3400,7 @@
         "regex_value": "sessionid=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Resource Type",
@@ -3414,7 +3414,7 @@
         "regex_value": "resource_type=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Resource",
@@ -3428,7 +3428,7 @@
         "regex_value": "resource=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Log Component",
@@ -3442,7 +3442,7 @@
         "regex_value": "log_component=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall User Name",
@@ -3456,7 +3456,7 @@
         "regex_value": "user_name=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Server",
@@ -3470,7 +3470,7 @@
         "regex_value": "server=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall WS Protocol",
@@ -3484,7 +3484,7 @@
         "regex_value": "ws_protocol=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Query String",
@@ -3498,7 +3498,7 @@
         "regex_value": "queryString=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Cookie",
@@ -3512,7 +3512,7 @@
         "regex_value": "cookie=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Referer",
@@ -3526,7 +3526,7 @@
         "regex_value": "referer=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Method",
@@ -3540,7 +3540,7 @@
         "regex_value": "method=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall HTTP Status",
@@ -3554,7 +3554,7 @@
         "regex_value": "httpstatus=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Extra",
@@ -3568,7 +3568,7 @@
         "regex_value": "extra=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Content Type",
@@ -3582,7 +3582,7 @@
         "regex_value": "contenttype=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall User Agent",
@@ -3596,7 +3596,7 @@
         "regex_value": "useragent=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Response Time",
@@ -3610,7 +3610,7 @@
         "regex_value": "responsetime=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Bytes Sent",
@@ -3624,7 +3624,7 @@
         "regex_value": "bytessent=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Bytes Received",
@@ -3638,7 +3638,7 @@
         "regex_value": "bytesrcv=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Transaction",
@@ -3652,7 +3652,7 @@
         "regex_value": "transaction=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Content Filter Key",
@@ -3666,7 +3666,7 @@
         "regex_value": "content_filter_key=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall HTTP Category",
@@ -3680,7 +3680,7 @@
         "regex_value": "http_category=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Connection Direction",
@@ -3694,7 +3694,7 @@
         "regex_value": "con_direction=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Context Match",
@@ -3708,7 +3708,7 @@
         "regex_value": "context_match=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Context Prefix",
@@ -3722,7 +3722,7 @@
         "regex_value": "context_prefix=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Context Suffix",
@@ -3736,7 +3736,7 @@
         "regex_value": "context_suffix=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Transaction ID",
@@ -3750,7 +3750,7 @@
         "regex_value": "transactionid=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Dictionary Name",
@@ -3764,7 +3764,7 @@
         "regex_value": "dictionaryname=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Site Category",
@@ -3778,7 +3778,7 @@
         "regex_value": "sitecategory=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Website",
@@ -3792,7 +3792,7 @@
         "regex_value": "website=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Direction",
@@ -3806,7 +3806,7 @@
         "regex_value": "direction=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Context Match",
@@ -3820,7 +3820,7 @@
         "regex_value": "contextmatch=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Context Prefix",
@@ -3834,7 +3834,7 @@
         "regex_value": "contextprefix=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Context Suffix",
@@ -3848,7 +3848,7 @@
         "regex_value": "contextsuffix=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Web Policy ID",
@@ -3862,7 +3862,7 @@
         "regex_value": "web_policy_id=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall HTTP Category Type",
@@ -3876,7 +3876,7 @@
         "regex_value": "http_category_type=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Content Type",
@@ -3890,7 +3890,7 @@
         "regex_value": "content_type=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Override Token",
@@ -3904,7 +3904,7 @@
         "regex_value": "override_token=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Override Name",
@@ -3918,7 +3918,7 @@
         "regex_value": "override_name=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Override Authorizer",
@@ -3932,7 +3932,7 @@
         "regex_value": "override_authorizer=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Activity Name",
@@ -3946,7 +3946,7 @@
         "regex_value": "activity_name=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall HTTP User Agent",
@@ -3960,7 +3960,7 @@
         "regex_value": "http_user_agent=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Transaction ID",
@@ -3974,7 +3974,7 @@
         "regex_value": "transaction_id=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall HTTP Referer",
@@ -3988,7 +3988,7 @@
         "regex_value": "http_referer=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Firewall Download File Name",
@@ -4002,7 +4002,7 @@
         "regex_value": "download_file_name=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": "device_name=\"SFW\""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Download File Type",
@@ -4016,7 +4016,7 @@
         "regex_value": "download_file_type=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": ""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Upload File Name",
@@ -4030,7 +4030,7 @@
         "regex_value": "upload_file_name=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": ""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Upload File Type",
@@ -4044,7 +4044,7 @@
         "regex_value": "upload_file_type=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": ""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Connection ID",
@@ -4058,7 +4058,7 @@
         "regex_value": "con_id=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": ""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Used Quota",
@@ -4072,7 +4072,7 @@
         "regex_value": "used_quota=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": ""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Category Type",
@@ -4086,7 +4086,7 @@
         "regex_value": "category_type=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": ""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Content Type",
@@ -4100,7 +4100,7 @@
         "regex_value": "contenttype=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": ""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Override Authorizer",
@@ -4114,7 +4114,7 @@
         "regex_value": "override_authorizer=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": ""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Exceptions",
@@ -4128,7 +4128,7 @@
         "regex_value": "exceptions=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": ""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Activity Name",
@@ -4142,7 +4142,7 @@
         "regex_value": "activityname=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": ""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Download File Name",
@@ -4156,7 +4156,7 @@
         "regex_value": "download_file_name=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": ""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Download File Type",
@@ -4170,7 +4170,7 @@
         "regex_value": "download_file_type=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": ""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Upload File Name",
@@ -4184,7 +4184,7 @@
         "regex_value": "upload_file_name=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": ""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "AP",
@@ -4198,7 +4198,7 @@
         "regex_value": "ap=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": ""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "SSID",
@@ -4212,7 +4212,7 @@
         "regex_value": "ssid=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": ""
+      "condition_value": "device_name=\"insert.device.name.here\""
     },
     {
       "title": "Clients Connection SSID",
@@ -4226,7 +4226,7 @@
         "regex_value": "clients_conn_SSID=\"([^\"]*)\""
       },
       "condition_type": "string",
-      "condition_value": ""
+      "condition_value": "device_name=\"insert.device.name.here\""
     }
   ],
   "version": "5.2.2"
