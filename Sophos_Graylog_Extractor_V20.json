@@ -233,7 +233,7 @@
       "source_field": "message",
       "target_field": "fw_src_port",
       "extractor_config": {
-        "regex_value": "src_port=\"([^\"]*)\""
+        "regex_value": "src_port=\"([^\\s]*)\""
       },
       "condition_type": "string",
       "condition_value": "device_name=\"insert.device.name.here\""
@@ -247,7 +247,7 @@
       "source_field": "message",
       "target_field": "fw_dst_port",
       "extractor_config": {
-        "regex_value": "dst_port=\"([^\"]*)\""
+        "regex_value": "dst_port=([^\\s]*)"
       },
       "condition_type": "string",
       "condition_value": "device_name=\"insert.device.name.here\""
@@ -2611,7 +2611,7 @@
       "order": 0,
       "cursor_strategy": "copy",
       "source_field": "message",
-      "target_field": "fw_sdwan_profile_id_request",
+      "target_field": "fw_sdwan_profile_name_request",
       "extractor_config": {
         "regex_value": "sdwan_profile_id_request=\"([^\"]*)\""
       },
