@@ -1,6 +1,6 @@
-# Sophos XG Syslog Graylog Extractor
+# Sophos SFOS Syslog Graylog Extractor
 
-This repository contains a custom modified JSON Graylog extractor for Sophos SFSO Syslog.
+This repository contains a custom modified JSON Graylog extractor for Sophos SFOS Syslog.
 
 The code inspiration for this extractor was taken from [zildjian4life218/Sophos-XG-Extractor](https://github.com/zildjian4life218/Sophos-XG-Extractor) as the starting point to understand the extractor code.
 
@@ -8,5 +8,4 @@ The code inspiration for this extractor was taken from [zildjian4life218/Sophos-
 
 The extractor has been tested and confirmed to work with logs available in the following environment:
 - Graylog Version: 6.x
-- Sophos SFOS 22.x
-- 
+- Sophos SFOS 22.x on Sophos XGS 2300
